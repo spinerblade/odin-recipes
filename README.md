@@ -1,1 +1,2 @@
 # odin-recipes
+A nice exercise to start the HTML-journey. Linking images and referencing the html files is key. Contains a lot of text writing for the recipes. Maybe a GPT could do that job for later projects.
